@@ -18,6 +18,8 @@ The primary objectives of this integration are:
 
 ---
 
+![Y27AjCz1z4BachcF4XVWX](https://github.com/user-attachments/assets/db69cf12-cc1d-4755-b35d-5ab912bab57e)
+
 ### **Configuration Steps**
 
 #### **Prerequisites**
