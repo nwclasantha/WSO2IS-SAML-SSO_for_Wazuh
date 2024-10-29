@@ -1,5 +1,7 @@
 ### **Introduction**
 
+![image](https://github.com/user-attachments/assets/bb264b63-1c24-4e02-b231-9558d52a39dc)
+
 WSO2 Identity Server (WSO2IS) provides a comprehensive solution for managing user identities and enabling secure single sign-on (SSO) across applications. In this guide, we will configure WSO2IS as the central SAML identity provider (IdP) for Wazuh, an open-source security monitoring platform. Integrating WSO2IS with Wazuh via SAML-based SSO simplifies the login process, enhances security, and allows users to access Wazuh with a single set of credentials managed centrally in WSO2IS.
 
 ### **Objectives**
